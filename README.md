@@ -1,1 +1,1 @@
-# JavaPrktikum1
+# JavaPraktikum1
